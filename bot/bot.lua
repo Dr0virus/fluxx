@@ -212,6 +212,12 @@ function create_config( )
   config = {
     enabled_plugins = {
       "help",
+      "groupcontrol",
+      "help.old",
+      "invite",
+      "membercontrol",
+      "moderation",
+      "plugins",
       "id",
       "plugins",
       },
